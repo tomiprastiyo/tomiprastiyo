@@ -6,7 +6,7 @@
 
 I'm a passionate full stack developer with a keen interest in building scalable web applications and exploring the latest technologies in both frontend and backend development. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me watching anime or reading novels/manga.
 
-### My Favorite Games:
+### 🎮 My Favorite Games:
 
 <img src="https://www.gematsu.com/wp-content/uploads/2023/03/Yuki-Yuna-is-a-Hero-PS4-Switch_03-21-23.jpg" alt="Anime Image" width="400">
 
