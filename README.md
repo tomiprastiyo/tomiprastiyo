@@ -1,16 +1,16 @@
 ## Hi there, I'm Tomi Prastiyo 👋
 
-![Tomi's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&langs_count=10)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&langs_count=10)
 
 **`Full Stack Developer`**
 
 I'm a passionate full stack developer with a keen interest in building scalable web applications and exploring the latest technologies in both frontend and backend development. I enjoy turning complex problems into simple, beautiful, and intuitive designs. When I'm not coding, you'll find me watching anime or reading novels/manga.
 
-### 🎮 My Favorite Games:
+### 🎮 My Favorite Games
 
-<img src="https://www.gematsu.com/wp-content/uploads/2023/03/Yuki-Yuna-is-a-Hero-PS4-Switch_03-21-23.jpg" alt="Anime Image" width="400">
+<img src="https://www.gematsu.com/wp-content/uploads/2023/03/Yuki-Yuna-is-a-Hero-PS4-Switch_03-21-23.jpg" alt="Anime Image" width="400"/>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
@@ -23,13 +23,13 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 ![Tomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiprastiyo&show_icons=true&theme=radical)
 
-### 🔥 Top Languages:
+### 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&langs_count=10&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiprastiyo&layout=compact&langs_count=10&hide_title=true)
 
 ---
 
