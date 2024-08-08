@@ -1,6 +1,6 @@
 ## Hi there, I'm Tomi Prastiyo 👋
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&langs_count=10)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tomipr&layout=compact&langs_count=10&theme=dracula)
 
 **`Full Stack Developer`**
 
@@ -25,11 +25,11 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 
 ### 📊 GitHub Stats
 
-![Tomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiprastiyo&show_icons=true&theme=radical)
+![Tomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomiprastiyo&show_icons=true&theme=dracula)
 
 ### 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiprastiyo&layout=compact&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiprastiyo&layout=compact&langs_count=10&theme=dracula)
 
 ---
 
