@@ -29,7 +29,7 @@ I'm a passionate full stack developer with a keen interest in building scalable 
 
 ### 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiprastiyo&layout=compact&langs_count=10&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomiprastiyo&layout=compact&langs_count=10)
 
 ---
 
